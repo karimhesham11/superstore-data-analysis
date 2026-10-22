@@ -1,0 +1,110 @@
+🐍 Python — Final Business Insights
+1. Discount vs Profit
+
+التحليل أظهر علاقة عكسية بين الـ Discount والـ Profit:
+
+Discount vs Profit correlation ≈ -0.219
+Average Discount vs Profit Margin correlation ≈ -0.557
+ومع ارتفاع الـ Discount، الـ Average Profit بدأ يتحول لخسارة.
+مجموعة 41–50% Discount كان متوسط الـ Profit فيها حوالي -$298.70.
+
+Insight:
+
+Higher discount levels are associated with lower profitability, with high-discount groups showing negative average profit.
+
+⚠️ العلاقة لا تثبت إن الـ Discount هو السبب الوحيد للخسارة.
+
+2. High Sales + High Profit Customers
+133 customers
+Sales ≈ $890K
+Profit ≈ $211K
+Profit Margin ≈ 23.75%
+
+Insight:
+
+The High Sales + High Profit segment generated approximately $890K in sales and $211K in profit across 133 customers, indicating strong sales performance combined with healthy profitability.
+
+3. High Sales + Low Profit Customers
+27 customers
+Sales ≈ $181K
+Profit ≈ -$35.4K
+Margin ≈ -19.58%
+
+Insight:
+
+The High Sales + Low Profit segment generated approximately $181K in sales but resulted in a $35.4K loss, showing that high sales volume does not necessarily translate into profitability.
+
+وده Segment يستحق investigation للـ:
+
+Discount → Product Mix → Costs
+
+4. Low Sales + Medium High Profit
+24 customers
+Sales ≈ $23.2K
+Profit ≈ $6.86K
+Margin ≈ 29.63%
+
+Insight:
+
+The Low Sales + Medium High Profit segment generates relatively low sales while maintaining a strong profit margin, representing a potential growth opportunity if customer spending can be increased without significantly reducing profitability.
+
+5. Medium High Sales + Low Profit
+48 customers
+Sales ≈ $138.9K
+Profit ≈ -$19.3K
+Margin ≈ -13.91%
+
+Insight:
+
+The Medium High Sales + Low Profit segment generates substantial sales but operates at a loss, suggesting that profitability drivers should be investigated before pursuing further sales growth.
+
+6. Orders vs Sales vs Profit
+
+Correlation:
+
+Orders ↔ Sales   = 0.4177
+Orders ↔ Profit  = 0.1747
+
+يعني عدد الـ Orders مرتبط بالـ Sales بدرجة أكبر من ارتباطه بالـ Profit.
+
+Insight:
+
+Customer order frequency has a stronger positive relationship with sales than with profit, suggesting that increasing order volume does not necessarily lead to proportional increases in profitability.
+
+وده ممكن يكون مرتبط بعوامل زي الـ Discount أو Product Mix أو Costs، لكن دي hypotheses مش إثبات سببي.
+
+7. Sales & Profit Over Time
+
+Sales:
+
+2014 → $484K
+2015 → $471K
+2016 → $609K
+2017 → $733K
+
+Profit:
+
+2014 → $49.5K
+2015 → $61.6K
+2016 → $81.8K
+2017 → $93.4K
+
+Insight:
+
+Sales and profit showed overall growth over the four-year period, despite a temporary decline in sales in 2015.
+
+8. Sales Outliers
+
+استخدمنا IQR method وطلع:
+
+1,167 outliers
+
+لكن:
+
+Outlier ≠ Problem
+
+الـ Outlier مجرد قيمة بعيدة عن معظم البيانات، وممكن تكون Order كبيرة أو Product غالي أو حالة تستحق investigation.
+
+Insight:
+
+The dataset contains a significant number of unusually high sales values, which may represent high-value transactions and should be investigated rather than automatically treated as errors.

@@ -1,0 +1,88 @@
+1. Overall Business Performance
+High sales do not necessarily translate into high profitability.
+Some products and customers generate substantial sales while contributing little or negative profit.
+Therefore, business performance should be evaluated using Sales, Profit, and Profit Margin, rather than sales volume alone.
+
+2. Category Performance
+Furniture is the weakest-performing category in terms of profitability compared with Technology and Office Supplies.
+Furniture generates a significant amount of sales but contributes relatively low profit.
+The problem is not uniform across Furniture; it is concentrated in specific sub-categories.
+
+3. Sub-category Performance
+Tables are the largest source of losses among the loss-making sub-categories.
+Tables account for approximately 78.8% of total losses among loss-making sub-categories.
+Tables and Bookcases together account for approximately 94.6% of those losses.
+This indicates that the profitability problem is highly concentrated rather than evenly distributed across the business.
+
+4. Discount and Profitability
+Higher discount levels are generally associated with lower profitability.
+The relationship becomes particularly concerning at higher discount levels.
+Discount levels of 31% and above were associated with negative overall profit margins in this dataset.
+However, the impact of discounts varies across categories and regions.
+
+5. Furniture and Discount
+Furniture appears to be more sensitive to discounting than Technology.
+Higher discounts are strongly associated with declining profitability within Furniture.
+This suggests that a uniform discount strategy may not be appropriate across all categories.
+
+6. Tables and Discount
+Tables perform well when sold with little or no discount.
+Profitability declines as discount levels increase.
+Higher discount levels, particularly 31–50%, are associated with significant losses in Tables.
+This makes aggressive discounting a major profitability risk for the Tables sub-category.
+
+7. Bookcases and Discount
+Bookcases show a similar negative relationship between discounting and profitability.
+Higher discounts are associated with increasingly severe losses.
+Tables and Bookcases therefore represent the most important areas for reviewing discount policies.
+
+8. Product-Level Performance
+Category-level profitability can hide significant product-level problems.
+Several products generate high sales while producing negative or very low profit.
+Even profitable categories such as Technology contain individual products with significant losses.
+Therefore, product-level analysis is necessary to identify specific profitability risks.
+
+9. Loss Concentration
+Losses are concentrated among a relatively small number of high-impact products.
+The top three loss-making products account for approximately 22.5% of total product-level losses.
+At the same time, losses are not limited to only a few products, indicating both concentrated high-impact problems and broader lower-impact issues.
+
+10. Product Risk Prioritization
+Not all loss-making products represent the same level of business risk.
+Products with both large financial losses and extremely low profit margins should receive the highest priority.
+This supports prioritizing products based on Loss Amount and Profit Margin, rather than simply labeling every loss-making product as equally problematic.
+
+11. Customer Profitability
+Customer sales volume does not always reflect customer value.
+Customers with similar sales levels can generate significantly different profits.
+Some high-sales customers generate relatively low or negative profitability.
+Customer performance should therefore be evaluated using Sales, Profit, and Profit Margin together.
+
+12. Customer Profit Concentration
+Overall profit is not heavily dependent on a very small group of customers.
+The top 20 customers contribute approximately 25.2% of total profit.
+The top 50 customers contribute approximately 43.4% of total profit.
+This suggests that the company's profit base is relatively diversified across its customer base.
+
+13. Regional Performance
+West generates the highest sales among the regions.
+However, the highest sales volume does not necessarily correspond to the highest profitability.
+Some regions generate lower sales while achieving comparable or better profit margins.
+Regional performance should therefore be evaluated using profitability metrics, not sales alone.
+
+14. Seasonality
+Profitability varies across months and years, indicating a seasonal component to business performance.
+March shows a noticeable increase in profitability.
+September through December represent one of the strongest periods for profit generation.
+December records the highest total profit in the monthly analysis.
+Seasonal patterns could therefore be considered when planning sales, inventory, and promotional strategies.
+
+15. Shipping Performance
+Shipping mode does not appear to be a major source of profitability problems.
+Faster shipping options do not show a clear and significant profitability penalty in the dataset.
+Therefore, shipping mode is currently a lower-priority area compared with product mix and discounting.
+The Main Business Story
+
+If we want to summarize the entire analysis in one strong business statement:
+
+The business generates strong sales, but profitability is uneven across products, customers, categories, and regions. The most significant profitability problem is concentrated in Furniture, particularly Tables and Bookcases. Higher discount levels are strongly associated with declining profitability, especially within these sub-categories. At the product level, several high-impact loss-making products exist even within otherwise profitable categories, indicating that category-level performance alone can hide important risks. Customer profitability also varies significantly, meaning that sales volume alone is not sufficient to evaluate customer value. Regional and seasonal differences further influence performance, while shipping mode does not appear to be a major source of profitability issues.

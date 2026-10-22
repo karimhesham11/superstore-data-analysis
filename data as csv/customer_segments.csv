@@ -1,0 +1,794 @@
+﻿Customer_ID,Value_Segment,Value_Group
+AA-10315,High Sales + Low Profit,"High Sales, Losing Money"
+AA-10375,Low Sales + Medium High Profit,Small but Profitable
+AA-10480,Medium Low Sales + Medium High Profit,Other
+AA-10645,High Sales + High Profit,Stars
+AB-10015,Low Sales + Medium Low Profit,Other
+AB-10060,High Sales + High Profit,Stars
+AB-10105,High Sales + High Profit,Stars
+AB-10150,Low Sales + Medium High Profit,Small but Profitable
+AB-10165,Low Sales + Medium Low Profit,Other
+AB-10255,Low Sales + Medium High Profit,Small but Profitable
+AB-10600,Medium Low Sales + Low Profit,Other
+AC-10420,Low Sales + Low Profit,Other
+AC-10450,High Sales + High Profit,Stars
+AC-10615,Medium High Sales + Medium High Profit,Other
+AC-10660,Low Sales + Low Profit,Other
+AD-10180,High Sales + High Profit,Stars
+AF-10870,Medium Low Sales + Medium High Profit,Other
+AF-10885,Low Sales + Low Profit,Other
+AG-10270,Medium High Sales + High Profit,Other
+AG-10300,Low Sales + Medium Low Profit,Other
+AG-10330,Low Sales + Low Profit,Other
+AG-10390,Low Sales + Medium Low Profit,Other
+AG-10495,Medium High Sales + Medium High Profit,Other
+AG-10525,Medium Low Sales + Low Profit,Other
+AG-10675,Medium High Sales + Low Profit,"High Sales, Losing Money"
+AG-10765,Low Sales + Low Profit,Other
+AG-10900,High Sales + Medium High Profit,Other
+AH-10030,Medium Low Sales + Medium High Profit,Other
+AH-10075,Medium High Sales + Medium High Profit,Other
+AH-10120,Medium Low Sales + Low Profit,Other
+AH-10195,Medium Low Sales + Low Profit,Other
+AH-10210,High Sales + High Profit,Stars
+AH-10465,Medium High Sales + Low Profit,"High Sales, Losing Money"
+AH-10585,Low Sales + Medium Low Profit,Other
+AH-10690,High Sales + High Profit,Stars
+AI-10855,High Sales + High Profit,Stars
+AJ-10780,High Sales + Medium Low Profit,Other
+AJ-10795,High Sales + High Profit,Stars
+AJ-10945,Medium Low Sales + Medium High Profit,Other
+AJ-10960,Low Sales + Medium Low Profit,Other
+AM-10360,Low Sales + Medium Low Profit,Other
+AM-10705,High Sales + High Profit,Stars
+AO-10810,Low Sales + Low Profit,Other
+AP-10720,Medium Low Sales + Medium High Profit,Other
+AP-10915,Medium High Sales + High Profit,Other
+AR-10345,Low Sales + Low Profit,Other
+AR-10405,Medium Low Sales + Low Profit,Other
+AR-10510,Low Sales + Medium Low Profit,Other
+AR-10540,High Sales + High Profit,Stars
+AR-10570,Low Sales + Low Profit,Other
+AR-10825,High Sales + Medium High Profit,Other
+AS-10045,Medium High Sales + Low Profit,"High Sales, Losing Money"
+AS-10090,Medium High Sales + Medium Low Profit,Other
+AS-10135,Low Sales + Low Profit,Other
+AS-10225,High Sales + High Profit,Stars
+AS-10240,Low Sales + Low Profit,Other
+AS-10285,Medium High Sales + Medium High Profit,Other
+AS-10630,Low Sales + Medium Low Profit,Other
+AT-10435,Medium Low Sales + Medium Low Profit,Other
+AT-10735,High Sales + High Profit,Stars
+AW-10840,Low Sales + Medium Low Profit,Other
+AW-10930,Medium High Sales + Low Profit,"High Sales, Losing Money"
+AY-10555,Low Sales + Medium Low Profit,Other
+AZ-10750,Medium Low Sales + Medium Low Profit,Other
+BB-10990,Low Sales + Low Profit,Other
+BB-11545,High Sales + High Profit,Stars
+BC-11125,Medium High Sales + Medium High Profit,Other
+BD-11320,High Sales + High Profit,Stars
+BD-11500,High Sales + High Profit,Stars
+BD-11560,Low Sales + Medium Low Profit,Other
+BD-11605,Medium High Sales + High Profit,Other
+BD-11620,Medium Low Sales + Medium Low Profit,Other
+BD-11635,Low Sales + Medium Low Profit,Other
+BD-11725,Medium Low Sales + Medium High Profit,Other
+BD-11770,Low Sales + Medium Low Profit,Other
+BE-11335,High Sales + High Profit,Stars
+BE-11410,Medium High Sales + High Profit,Other
+BE-11455,Medium Low Sales + Medium Low Profit,Other
+BF-10975,Low Sales + Medium Low Profit,Other
+BF-11005,Medium Low Sales + Low Profit,Other
+BF-11020,Medium High Sales + Medium High Profit,Other
+BF-11080,Low Sales + Medium Low Profit,Other
+BF-11170,High Sales + High Profit,Stars
+BF-11215,Medium Low Sales + Medium High Profit,Other
+BF-11275,Low Sales + Low Profit,Other
+BG-11035,Medium High Sales + Low Profit,"High Sales, Losing Money"
+BG-11695,Medium Low Sales + Medium Low Profit,Other
+BG-11740,Low Sales + Medium Low Profit,Other
+BH-11710,High Sales + High Profit,Stars
+BK-11260,Low Sales + Low Profit,Other
+BM-11140,High Sales + Low Profit,"High Sales, Losing Money"
+BM-11575,Low Sales + Medium Low Profit,Other
+BM-11650,High Sales + High Profit,Stars
+BM-11785,Medium Low Sales + Medium Low Profit,Other
+BN-11470,Low Sales + Medium Low Profit,Other
+BN-11515,Medium Low Sales + Medium High Profit,Other
+BO-11350,Medium High Sales + Medium High Profit,Other
+BO-11425,Low Sales + Medium Low Profit,Other
+BP-11050,Low Sales + Medium Low Profit,Other
+BP-11095,Medium High Sales + Medium High Profit,Other
+BP-11155,Medium Low Sales + High Profit,Small but Profitable
+BP-11185,Medium High Sales + Medium High Profit,Other
+BP-11230,Medium Low Sales + Low Profit,Other
+BP-11290,Medium High Sales + Low Profit,"High Sales, Losing Money"
+BS-11365,High Sales + High Profit,Stars
+BS-11380,High Sales + Low Profit,"High Sales, Losing Money"
+BS-11590,Medium High Sales + Medium High Profit,Other
+BS-11665,Medium High Sales + Medium High Profit,Other
+BS-11755,Medium High Sales + Low Profit,"High Sales, Losing Money"
+BS-11800,Low Sales + Medium Low Profit,Other
+BT-11305,Medium High Sales + Medium High Profit,Other
+BT-11395,Medium Low Sales + Medium High Profit,Other
+BT-11440,Low Sales + Low Profit,Other
+BT-11485,Low Sales + Medium Low Profit,Other
+BT-11530,Medium High Sales + Medium High Profit,Other
+BT-11680,Medium High Sales + Medium High Profit,Other
+BV-11245,Medium Low Sales + Medium High Profit,Other
+BW-11065,Low Sales + Low Profit,Other
+BW-11110,High Sales + High Profit,Stars
+BW-11200,Medium Low Sales + Medium High Profit,Other
+CA-11965,High Sales + High Profit,Stars
+CA-12055,Medium Low Sales + Medium Low Profit,Other
+CA-12265,Medium High Sales + Medium High Profit,Other
+CA-12310,Medium Low Sales + Medium High Profit,Other
+CA-12775,Medium High Sales + Medium Low Profit,Other
+CB-12025,High Sales + Medium Low Profit,Other
+CB-12415,Medium Low Sales + Medium High Profit,Other
+CB-12535,High Sales + High Profit,Stars
+CC-12100,Medium Low Sales + Medium Low Profit,Other
+CC-12145,Medium High Sales + Medium High Profit,Other
+CC-12220,High Sales + Medium High Profit,Other
+CC-12370,High Sales + High Profit,Stars
+CC-12430,Medium High Sales + Medium High Profit,Other
+CC-12475,Medium Low Sales + Medium Low Profit,Other
+CC-12550,Low Sales + Low Profit,Other
+CC-12610,Medium High Sales + Medium High Profit,Other
+CC-12670,Medium High Sales + Medium Low Profit,Other
+CC-12685,Medium High Sales + High Profit,Other
+CD-11920,Medium Low Sales + Medium High Profit,Other
+CD-11980,Low Sales + Low Profit,Other
+CD-12280,Medium Low Sales + Medium High Profit,Other
+CD-12790,Medium Low Sales + Medium High Profit,Other
+CG-12040,Low Sales + Medium Low Profit,Other
+CG-12520,Medium Low Sales + Medium Low Profit,Other
+CH-12070,Medium Low Sales + Medium Low Profit,Other
+CJ-11875,Low Sales + Low Profit,Other
+CJ-12010,High Sales + High Profit,Stars
+CK-12205,Medium High Sales + Medium Low Profit,Other
+CK-12325,Medium High Sales + Medium High Profit,Other
+CK-12595,Medium High Sales + Medium High Profit,Other
+CK-12760,Medium Low Sales + Low Profit,Other
+CL-11890,Medium Low Sales + Medium High Profit,Other
+CL-12565,High Sales + High Profit,Stars
+CL-12700,Medium High Sales + Medium High Profit,Other
+CM-11815,Medium Low Sales + Medium Low Profit,Other
+CM-11935,Low Sales + Low Profit,Other
+CM-12115,Medium Low Sales + Medium High Profit,Other
+CM-12160,Medium High Sales + Low Profit,"High Sales, Losing Money"
+CM-12190,Medium Low Sales + Medium Low Profit,Other
+CM-12235,Medium High Sales + Medium High Profit,Other
+CM-12385,High Sales + High Profit,Stars
+CM-12445,Low Sales + Medium Low Profit,Other
+CM-12655,High Sales + High Profit,Stars
+CM-12715,High Sales + Medium Low Profit,Other
+CP-12085,High Sales + Medium High Profit,Other
+CP-12340,High Sales + Low Profit,"High Sales, Losing Money"
+CR-12580,Medium Low Sales + Medium Low Profit,Other
+CR-12625,Low Sales + Medium Low Profit,Other
+CR-12730,Medium Low Sales + Medium High Profit,Other
+CR-12820,Medium Low Sales + Medium Low Profit,Other
+CS-11845,Medium Low Sales + Medium Low Profit,Other
+CS-11860,Low Sales + Medium Low Profit,Other
+CS-11950,Medium High Sales + Low Profit,"High Sales, Losing Money"
+CS-12130,Low Sales + Medium Low Profit,Other
+CS-12175,Low Sales + Medium Low Profit,Other
+CS-12250,Medium High Sales + High Profit,Other
+CS-12355,Medium High Sales + High Profit,Other
+CS-12400,Medium High Sales + Low Profit,"High Sales, Losing Money"
+CS-12460,Low Sales + Medium Low Profit,Other
+CS-12490,Low Sales + Low Profit,Other
+CS-12505,High Sales + Low Profit,"High Sales, Losing Money"
+CT-11995,Medium High Sales + Medium Low Profit,Other
+CV-12295,Medium High Sales + Medium High Profit,Other
+CV-12805,Medium High Sales + Medium Low Profit,Other
+CW-11905,Low Sales + Medium High Profit,Small but Profitable
+CY-12745,Medium High Sales + Medium Low Profit,Other
+Co-12640,Medium Low Sales + Medium Low Profit,Other
+DA-13450,Low Sales + Medium Low Profit,Other
+DB-12910,Medium Low Sales + Medium High Profit,Other
+DB-12970,Medium High Sales + Medium Low Profit,Other
+DB-13060,High Sales + Medium High Profit,Other
+DB-13120,Medium High Sales + Low Profit,"High Sales, Losing Money"
+DB-13210,Medium High Sales + Medium Low Profit,Other
+DB-13270,High Sales + High Profit,Stars
+DB-13360,Low Sales + Medium High Profit,Small but Profitable
+DB-13405,Medium Low Sales + Medium High Profit,Other
+DB-13555,High Sales + Medium Low Profit,Other
+DB-13615,Medium Low Sales + Medium High Profit,Other
+DB-13660,Medium Low Sales + Medium Low Profit,Other
+DC-12850,Medium High Sales + Low Profit,"High Sales, Losing Money"
+DC-13285,Medium Low Sales + Medium Low Profit,Other
+DD-13570,Low Sales + Low Profit,Other
+DE-13255,Medium High Sales + Medium High Profit,Other
+DF-13135,Medium High Sales + Low Profit,"High Sales, Losing Money"
+DG-13300,Medium High Sales + High Profit,Other
+DH-13075,High Sales + High Profit,Stars
+DH-13675,Low Sales + Medium Low Profit,Other
+DJ-13420,Medium Low Sales + Medium High Profit,Other
+DJ-13510,Medium High Sales + Medium High Profit,Other
+DJ-13630,Medium High Sales + High Profit,Other
+DK-12835,Medium High Sales + High Profit,Other
+DK-12895,High Sales + High Profit,Stars
+DK-12985,Medium Low Sales + Low Profit,Other
+DK-13090,Medium High Sales + Medium High Profit,Other
+DK-13150,Low Sales + Medium High Profit,Small but Profitable
+DK-13225,High Sales + Medium Low Profit,Other
+DK-13375,Medium High Sales + Medium High Profit,Other
+DL-12865,Medium Low Sales + Medium High Profit,Other
+DL-12925,Medium High Sales + Low Profit,"High Sales, Losing Money"
+DL-13315,Medium Low Sales + Medium High Profit,Other
+DL-13330,Low Sales + Medium Low Profit,Other
+DL-13495,Medium High Sales + Low Profit,"High Sales, Losing Money"
+DM-12955,Medium Low Sales + Medium Low Profit,Other
+DM-13015,High Sales + High Profit,Stars
+DM-13345,High Sales + High Profit,Stars
+DM-13525,Medium Low Sales + Medium Low Profit,Other
+DN-13690,Medium Low Sales + Medium High Profit,Other
+DO-13435,Medium Low Sales + Low Profit,Other
+DO-13645,Medium Low Sales + Medium High Profit,Other
+DP-13000,Low Sales + Medium High Profit,Small but Profitable
+DP-13105,Medium Low Sales + High Profit,Small but Profitable
+DP-13165,Low Sales + Low Profit,Other
+DP-13390,High Sales + High Profit,Stars
+DR-12880,High Sales + High Profit,Stars
+DR-12940,High Sales + High Profit,Stars
+DS-13030,Medium Low Sales + Medium Low Profit,Other
+DS-13180,Medium High Sales + Medium Low Profit,Other
+DV-13045,Low Sales + Low Profit,Other
+DV-13465,Medium High Sales + Medium High Profit,Other
+DW-13195,Low Sales + Low Profit,Other
+DW-13480,High Sales + High Profit,Stars
+DW-13540,Low Sales + Medium Low Profit,Other
+DW-13585,Medium Low Sales + Low Profit,Other
+Dl-13600,Low Sales + Medium Low Profit,Other
+Dp-13240,High Sales + Medium High Profit,Other
+EA-14035,Medium High Sales + Low Profit,"High Sales, Losing Money"
+EB-13705,Medium High Sales + Low Profit,"High Sales, Losing Money"
+EB-13750,Medium High Sales + Low Profit,"High Sales, Losing Money"
+EB-13840,High Sales + High Profit,Stars
+EB-13870,Medium High Sales + Medium High Profit,Other
+EB-13930,Low Sales + Low Profit,Other
+EB-13975,Medium Low Sales + Medium Low Profit,Other
+EB-14110,Medium High Sales + Medium Low Profit,Other
+EB-14170,Medium Low Sales + Medium High Profit,Other
+EC-14050,Low Sales + Medium Low Profit,Other
+ED-13885,Medium High Sales + High Profit,Other
+EG-13900,Medium Low Sales + Medium Low Profit,Other
+EH-13765,High Sales + High Profit,Stars
+EH-13945,Low Sales + Medium Low Profit,Other
+EH-13990,Low Sales + Medium Low Profit,Other
+EH-14005,Medium Low Sales + Low Profit,Other
+EH-14125,Medium High Sales + Medium Low Profit,Other
+EH-14185,Low Sales + Medium High Profit,Small but Profitable
+EJ-13720,Medium Low Sales + Medium High Profit,Other
+EJ-14155,Medium High Sales + Medium High Profit,Other
+EK-13795,Medium Low Sales + Medium Low Profit,Other
+EL-13735,Low Sales + Low Profit,Other
+EM-13810,Medium High Sales + Low Profit,"High Sales, Losing Money"
+EM-13825,Medium High Sales + High Profit,Other
+EM-13960,Low Sales + Medium Low Profit,Other
+EM-14065,Low Sales + Medium Low Profit,Other
+EM-14095,Low Sales + Medium High Profit,Small but Profitable
+EM-14140,High Sales + High Profit,Stars
+EM-14200,Low Sales + Low Profit,Other
+EN-13780,Medium Low Sales + Medium High Profit,Other
+EP-13915,High Sales + Medium Low Profit,Other
+ER-13855,Medium Low Sales + Low Profit,Other
+ES-14020,Medium High Sales + High Profit,Other
+ES-14080,High Sales + Medium High Profit,Other
+FA-14230,Medium High Sales + Medium High Profit,Other
+FC-14245,Medium High Sales + High Profit,Other
+FC-14335,High Sales + High Profit,Stars
+FG-14260,Medium Low Sales + Medium High Profit,Other
+FH-14275,High Sales + High Profit,Stars
+FH-14350,Medium High Sales + High Profit,Other
+FH-14365,High Sales + High Profit,Stars
+FM-14215,Medium High Sales + Medium High Profit,Other
+FM-14290,Medium High Sales + Medium Low Profit,Other
+FM-14380,Medium High Sales + Medium Low Profit,Other
+FO-14305,Medium High Sales + Medium Low Profit,Other
+FP-14320,High Sales + Medium High Profit,Other
+FW-14395,Low Sales + Low Profit,Other
+GA-14515,High Sales + High Profit,Stars
+GA-14725,Medium Low Sales + Medium Low Profit,Other
+GB-14530,Medium Low Sales + Low Profit,Other
+GB-14575,High Sales + High Profit,Stars
+GD-14590,Medium Low Sales + Medium High Profit,Other
+GG-14650,Medium Low Sales + Low Profit,Other
+GH-14410,Medium High Sales + Low Profit,"High Sales, Losing Money"
+GH-14425,High Sales + High Profit,Stars
+GH-14485,Medium Low Sales + Low Profit,Other
+GH-14665,Low Sales + Low Profit,Other
+GK-14620,High Sales + High Profit,Stars
+GM-14440,Medium High Sales + Medium High Profit,Other
+GM-14455,Medium High Sales + High Profit,Other
+GM-14500,Medium Low Sales + Medium High Profit,Other
+GM-14680,Medium High Sales + Low Profit,"High Sales, Losing Money"
+GM-14695,High Sales + Medium Low Profit,Other
+GP-14740,Low Sales + Low Profit,Other
+GR-14560,Medium Low Sales + Medium High Profit,Other
+GT-14635,High Sales + Low Profit,"High Sales, Losing Money"
+GT-14710,High Sales + High Profit,Stars
+GT-14755,Low Sales + Low Profit,Other
+GW-14605,Medium Low Sales + Low Profit,Other
+GZ-14470,High Sales + High Profit,Stars
+GZ-14545,Medium High Sales + High Profit,Other
+HA-14905,Medium Low Sales + Medium High Profit,Other
+HA-14920,Medium High Sales + Medium Low Profit,Other
+HD-14785,Low Sales + Low Profit,Other
+HE-14800,Low Sales + Medium High Profit,Small but Profitable
+HF-14995,Medium High Sales + Low Profit,"High Sales, Losing Money"
+HG-14845,Low Sales + Medium Low Profit,Other
+HG-14965,Medium High Sales + Low Profit,"High Sales, Losing Money"
+HG-15025,Medium High Sales + High Profit,Other
+HH-15010,Low Sales + Medium Low Profit,Other
+HJ-14875,Low Sales + Medium Low Profit,Other
+HK-14890,High Sales + High Profit,Stars
+HL-15040,High Sales + High Profit,Stars
+HM-14860,High Sales + High Profit,Stars
+HM-14980,Low Sales + Medium Low Profit,Other
+HP-14815,Medium Low Sales + Medium High Profit,Other
+HR-14770,Medium Low Sales + Medium Low Profit,Other
+HR-14830,High Sales + High Profit,Stars
+HW-14935,High Sales + High Profit,Stars
+HZ-14950,Low Sales + Low Profit,Other
+IG-15085,Low Sales + Medium High Profit,Small but Profitable
+IL-15100,High Sales + High Profit,Stars
+IM-15055,Medium High Sales + High Profit,Other
+IM-15070,High Sales + Medium High Profit,Other
+JA-15970,High Sales + Low Profit,"High Sales, Losing Money"
+JB-15400,Medium Low Sales + Medium Low Profit,Other
+JB-15925,Low Sales + Low Profit,Other
+JB-16000,Low Sales + Medium Low Profit,Other
+JB-16045,Medium High Sales + Medium Low Profit,Other
+JC-15340,Low Sales + Low Profit,Other
+JC-15385,Low Sales + Medium High Profit,Small but Profitable
+JC-15775,Medium High Sales + Medium High Profit,Other
+JC-16105,Low Sales + Medium Low Profit,Other
+JD-15790,Medium Low Sales + Low Profit,Other
+JD-15895,High Sales + High Profit,Stars
+JD-16015,Low Sales + Low Profit,Other
+JD-16060,Low Sales + Medium Low Profit,Other
+JD-16150,High Sales + High Profit,Stars
+JE-15475,Medium Low Sales + Medium High Profit,Other
+JE-15610,High Sales + High Profit,Stars
+JE-15715,High Sales + High Profit,Stars
+JE-15745,High Sales + Medium Low Profit,Other
+JE-16165,Medium High Sales + High Profit,Other
+JF-15190,Medium High Sales + High Profit,Other
+JF-15295,Low Sales + Medium Low Profit,Other
+JF-15355,Medium Low Sales + Medium High Profit,Other
+JF-15415,Medium High Sales + High Profit,Other
+JF-15490,Low Sales + Low Profit,Other
+JF-15565,High Sales + High Profit,Stars
+JG-15115,Medium High Sales + High Profit,Other
+JG-15160,High Sales + High Profit,Stars
+JG-15310,Medium Low Sales + Low Profit,Other
+JG-15805,Medium Low Sales + Medium Low Profit,Other
+JH-15430,Low Sales + Low Profit,Other
+JH-15820,Low Sales + Low Profit,Other
+JH-15910,Low Sales + Low Profit,Other
+JH-15985,High Sales + Low Profit,"High Sales, Losing Money"
+JH-16180,Medium High Sales + Low Profit,"High Sales, Losing Money"
+JJ-15445,Low Sales + Medium Low Profit,Other
+JJ-15760,Low Sales + Low Profit,Other
+JK-15205,High Sales + High Profit,Stars
+JK-15325,Low Sales + Medium Low Profit,Other
+JK-15370,Medium High Sales + Medium High Profit,Other
+JK-15625,Medium High Sales + High Profit,Other
+JK-15640,High Sales + High Profit,Stars
+JK-15730,High Sales + Medium Low Profit,Other
+JK-16090,Medium High Sales + High Profit,Other
+JK-16120,Medium High Sales + Medium Low Profit,Other
+JL-15130,Medium Low Sales + Low Profit,Other
+JL-15175,Medium Low Sales + Medium Low Profit,Other
+JL-15235,Medium Low Sales + Medium Low Profit,Other
+JL-15505,Medium High Sales + High Profit,Other
+JL-15835,High Sales + Medium High Profit,Other
+JL-15850,Medium High Sales + High Profit,Other
+JM-15250,Medium High Sales + Low Profit,"High Sales, Losing Money"
+JM-15265,Medium Low Sales + Medium High Profit,Other
+JM-15535,Medium Low Sales + Medium High Profit,Other
+JM-15580,Low Sales + Medium Low Profit,Other
+JM-15655,Low Sales + Medium Low Profit,Other
+JM-15865,High Sales + High Profit,Stars
+JM-16195,Medium High Sales + High Profit,Other
+JO-15145,Medium High Sales + High Profit,Other
+JO-15280,Medium Low Sales + Medium Low Profit,Other
+JO-15550,Low Sales + Medium Low Profit,Other
+JP-15460,Medium Low Sales + Medium High Profit,Other
+JP-15520,Medium High Sales + High Profit,Other
+JP-16135,Medium Low Sales + Medium High Profit,Other
+JR-15670,Medium Low Sales + Low Profit,Other
+JR-15700,Low Sales + Medium Low Profit,Other
+JR-16210,Medium Low Sales + Medium High Profit,Other
+JS-15595,Medium Low Sales + Low Profit,Other
+JS-15685,Low Sales + Low Profit,Other
+JS-15880,High Sales + High Profit,Stars
+JS-15940,Low Sales + Low Profit,Other
+JS-16030,Medium High Sales + Low Profit,"High Sales, Losing Money"
+JW-15220,High Sales + High Profit,Stars
+JW-15955,Medium Low Sales + Low Profit,Other
+JW-16075,Medium Low Sales + Medium Low Profit,Other
+KA-16525,Medium Low Sales + Medium High Profit,Other
+KB-16240,Medium High Sales + High Profit,Other
+KB-16315,Medium Low Sales + Medium Low Profit,Other
+KB-16405,Low Sales + Medium High Profit,Small but Profitable
+KB-16585,Medium High Sales + High Profit,Other
+KB-16600,Low Sales + Medium High Profit,Small but Profitable
+KC-16255,Medium Low Sales + High Profit,Small but Profitable
+KC-16540,High Sales + High Profit,Stars
+KC-16675,Medium Low Sales + Medium Low Profit,Other
+KD-16270,High Sales + High Profit,Stars
+KD-16345,Medium Low Sales + Medium High Profit,Other
+KD-16495,High Sales + High Profit,Stars
+KD-16615,Medium Low Sales + Medium High Profit,Other
+KE-16420,Medium Low Sales + Medium High Profit,Other
+KF-16285,High Sales + High Profit,Stars
+KH-16330,Medium High Sales + Medium High Profit,Other
+KH-16360,Medium High Sales + Medium High Profit,Other
+KH-16510,High Sales + High Profit,Stars
+KH-16630,High Sales + High Profit,Stars
+KH-16690,High Sales + High Profit,Stars
+KL-16555,High Sales + Low Profit,"High Sales, Losing Money"
+KL-16645,High Sales + High Profit,Stars
+KM-16225,Medium High Sales + High Profit,Other
+KM-16375,High Sales + High Profit,Stars
+KM-16660,Low Sales + Medium Low Profit,Other
+KM-16720,High Sales + High Profit,Stars
+KN-16390,Medium High Sales + Low Profit,"High Sales, Losing Money"
+KN-16450,Medium Low Sales + Medium Low Profit,Other
+KN-16705,Medium High Sales + Medium High Profit,Other
+KS-16300,Low Sales + Low Profit,Other
+KT-16465,Medium High Sales + Medium High Profit,Other
+KT-16480,High Sales + Medium Low Profit,Other
+KW-16435,High Sales + High Profit,Stars
+KW-16570,Low Sales + Medium Low Profit,Other
+LA-16780,High Sales + High Profit,Stars
+LB-16735,Low Sales + Low Profit,Other
+LB-16795,High Sales + Low Profit,"High Sales, Losing Money"
+LC-16870,Medium High Sales + Low Profit,"High Sales, Losing Money"
+LC-16885,High Sales + High Profit,Stars
+LC-16930,High Sales + Medium High Profit,Other
+LC-16960,Medium High Sales + Medium High Profit,Other
+LC-17050,Medium Low Sales + Medium Low Profit,Other
+LC-17140,Medium High Sales + Medium High Profit,Other
+LD-16855,Low Sales + Low Profit,Other
+LD-17005,Medium Low Sales + Medium High Profit,Other
+LE-16810,Medium Low Sales + Medium Low Profit,Other
+LF-17185,High Sales + Low Profit,"High Sales, Losing Money"
+LH-16750,Low Sales + Low Profit,Other
+LH-16900,Medium High Sales + Medium High Profit,Other
+LH-17020,Low Sales + Low Profit,Other
+LH-17155,Medium Low Sales + Medium High Profit,Other
+LL-16840,Medium High Sales + Medium High Profit,Other
+LM-17065,Medium Low Sales + Low Profit,Other
+LO-17170,Low Sales + Medium Low Profit,Other
+LP-17080,Low Sales + Medium Low Profit,Other
+LP-17095,Medium High Sales + Medium High Profit,Other
+LR-16915,High Sales + Medium High Profit,Other
+LR-17035,Medium Low Sales + Low Profit,Other
+LS-16945,Medium High Sales + Low Profit,"High Sales, Losing Money"
+LS-16975,Medium High Sales + Medium High Profit,Other
+LS-17200,Low Sales + Medium High Profit,Small but Profitable
+LS-17230,Low Sales + Medium Low Profit,Other
+LS-17245,Low Sales + Medium High Profit,Small but Profitable
+LT-16765,Low Sales + Medium Low Profit,Other
+LT-17110,Medium High Sales + Medium High Profit,Other
+LW-16825,Medium Low Sales + Low Profit,Other
+LW-16990,Medium High Sales + High Profit,Other
+LW-17125,Medium Low Sales + Medium Low Profit,Other
+LW-17215,High Sales + High Profit,Stars
+MA-17560,High Sales + High Profit,Stars
+MA-17995,Medium High Sales + Medium High Profit,Other
+MB-17305,Medium Low Sales + Medium Low Profit,Other
+MB-18085,Medium Low Sales + Medium Low Profit,Other
+MC-17275,Medium High Sales + Medium High Profit,Other
+MC-17425,High Sales + High Profit,Stars
+MC-17575,Medium Low Sales + Medium Low Profit,Other
+MC-17590,Medium High Sales + Medium High Profit,Other
+MC-17605,Medium High Sales + Medium Low Profit,Other
+MC-17635,Low Sales + Low Profit,Other
+MC-17845,High Sales + High Profit,Stars
+MC-18100,Medium Low Sales + Low Profit,Other
+MC-18130,Medium Low Sales + Medium Low Profit,Other
+MD-17350,Medium High Sales + Low Profit,"High Sales, Losing Money"
+MD-17860,Medium Low Sales + Low Profit,Other
+ME-17320,High Sales + High Profit,Stars
+ME-17725,Medium Low Sales + Medium Low Profit,Other
+ME-18010,Medium Low Sales + Medium Low Profit,Other
+MF-17665,Low Sales + Low Profit,Other
+MF-18250,Medium Low Sales + Medium High Profit,Other
+MG-17650,Medium High Sales + Medium High Profit,Other
+MG-17680,Medium High Sales + Low Profit,"High Sales, Losing Money"
+MG-17695,Medium Low Sales + Low Profit,Other
+MG-17875,Medium Low Sales + Low Profit,Other
+MG-17890,Low Sales + Medium Low Profit,Other
+MG-18145,Medium High Sales + Low Profit,"High Sales, Losing Money"
+MG-18205,Low Sales + Low Profit,Other
+MH-17290,Medium High Sales + Low Profit,"High Sales, Losing Money"
+MH-17440,Low Sales + Medium Low Profit,Other
+MH-17455,Medium High Sales + Medium High Profit,Other
+MH-17620,Medium Low Sales + Medium Low Profit,Other
+MH-17785,Medium Low Sales + Medium High Profit,Other
+MH-18025,Medium High Sales + Medium High Profit,Other
+MH-18115,High Sales + Medium Low Profit,Other
+MJ-17740,High Sales + High Profit,Stars
+MK-17905,Medium High Sales + Low Profit,"High Sales, Losing Money"
+MK-18160,Low Sales + Medium High Profit,Small but Profitable
+ML-17395,Medium High Sales + High Profit,Other
+ML-17410,Medium High Sales + Low Profit,"High Sales, Losing Money"
+ML-17755,Medium Low Sales + Medium High Profit,Other
+ML-18040,Low Sales + Medium Low Profit,Other
+ML-18265,Low Sales + Medium Low Profit,Other
+MM-17260,Medium Low Sales + Medium Low Profit,Other
+MM-17920,High Sales + Medium Low Profit,Other
+MM-18055,Medium High Sales + Low Profit,"High Sales, Losing Money"
+MM-18280,Low Sales + Medium Low Profit,Other
+MN-17935,Medium High Sales + Medium High Profit,Other
+MO-17500,Low Sales + Medium Low Profit,Other
+MO-17800,Medium Low Sales + Medium Low Profit,Other
+MO-17950,Low Sales + Low Profit,Other
+MP-17470,Medium High Sales + High Profit,Other
+MP-17965,High Sales + High Profit,Stars
+MP-18175,High Sales + Medium Low Profit,Other
+MR-17545,Low Sales + Medium Low Profit,Other
+MS-17365,High Sales + High Profit,Stars
+MS-17530,Low Sales + Medium Low Profit,Other
+MS-17710,Medium Low Sales + Medium High Profit,Other
+MS-17770,Medium High Sales + Medium High Profit,Other
+MS-17830,Low Sales + Low Profit,Other
+MS-17980,Low Sales + Medium Low Profit,Other
+MT-17815,Medium High Sales + Medium High Profit,Other
+MT-18070,Medium Low Sales + Low Profit,Other
+MV-17485,Medium Low Sales + Medium Low Profit,Other
+MV-18190,Medium Low Sales + Medium High Profit,Other
+MW-18220,High Sales + High Profit,Stars
+MW-18235,High Sales + High Profit,Stars
+MY-17380,Medium Low Sales + Medium High Profit,Other
+MY-18295,High Sales + Low Profit,"High Sales, Losing Money"
+MZ-17335,Low Sales + Medium Low Profit,Other
+MZ-17515,Medium High Sales + High Profit,Other
+NB-18580,Low Sales + Low Profit,Other
+NB-18655,Medium Low Sales + Medium Low Profit,Other
+NC-18340,Medium High Sales + High Profit,Other
+NC-18415,Medium Low Sales + Low Profit,Other
+NC-18535,High Sales + High Profit,Stars
+NC-18625,Medium Low Sales + Low Profit,Other
+ND-18370,High Sales + Medium High Profit,Other
+ND-18460,Medium High Sales + Medium High Profit,Other
+NF-18385,High Sales + Low Profit,"High Sales, Losing Money"
+NF-18475,Low Sales + Medium Low Profit,Other
+NF-18595,Medium Low Sales + Medium High Profit,Other
+NG-18355,Medium Low Sales + Medium High Profit,Other
+NG-18430,Medium Low Sales + Medium Low Profit,Other
+NH-18610,Medium High Sales + High Profit,Other
+NK-18490,Low Sales + Medium Low Profit,Other
+NL-18310,Medium Low Sales + Medium High Profit,Other
+NM-18445,High Sales + High Profit,Stars
+NM-18520,Medium Low Sales + High Profit,Small but Profitable
+NP-18325,High Sales + High Profit,Stars
+NP-18670,High Sales + Medium High Profit,Other
+NP-18685,Medium Low Sales + Medium High Profit,Other
+NP-18700,High Sales + High Profit,Stars
+NR-18550,Medium High Sales + Low Profit,"High Sales, Losing Money"
+NS-18505,Medium High Sales + Low Profit,"High Sales, Losing Money"
+NS-18640,Medium High Sales + Low Profit,"High Sales, Losing Money"
+NW-18400,High Sales + High Profit,Stars
+NZ-18565,Medium High Sales + Medium High Profit,Other
+ON-18715,Medium Low Sales + Low Profit,Other
+OT-18730,High Sales + Low Profit,"High Sales, Losing Money"
+PA-19060,Low Sales + Medium Low Profit,Other
+PB-18805,Low Sales + Medium High Profit,Small but Profitable
+PB-19105,Low Sales + Medium Low Profit,Other
+PB-19150,Medium Low Sales + Medium High Profit,Other
+PB-19210,Low Sales + Low Profit,Other
+PC-18745,Medium Low Sales + Medium High Profit,Other
+PC-19000,Low Sales + Low Profit,Other
+PF-19120,High Sales + Low Profit,"High Sales, Losing Money"
+PF-19165,Medium High Sales + Medium Low Profit,Other
+PF-19225,Medium Low Sales + High Profit,Small but Profitable
+PG-18820,Medium High Sales + Medium Low Profit,Other
+PG-18895,Medium Low Sales + Medium High Profit,Other
+PH-18790,Low Sales + Medium Low Profit,Other
+PJ-18835,Medium Low Sales + Medium High Profit,Other
+PJ-19015,Medium Low Sales + High Profit,Small but Profitable
+PK-18910,Medium Low Sales + Low Profit,Other
+PK-19075,High Sales + High Profit,Stars
+PL-18925,Low Sales + Low Profit,Other
+PM-18940,Medium Low Sales + Medium Low Profit,Other
+PM-19135,High Sales + Medium High Profit,Other
+PN-18775,Medium Low Sales + Medium Low Profit,Other
+PO-18850,High Sales + Medium Low Profit,Other
+PO-18865,Medium High Sales + Medium High Profit,Other
+PO-19180,High Sales + High Profit,Stars
+PO-19195,Low Sales + Low Profit,Other
+PP-18955,High Sales + High Profit,Stars
+PR-18880,Medium Low Sales + Medium High Profit,Other
+PS-18760,Medium Low Sales + Low Profit,Other
+PS-18970,Medium Low Sales + Medium Low Profit,Other
+PS-19045,High Sales + High Profit,Stars
+PT-19090,Low Sales + Low Profit,Other
+PV-18985,Medium High Sales + Medium High Profit,Other
+PW-19030,Medium High Sales + High Profit,Other
+PW-19240,High Sales + High Profit,Stars
+QJ-19255,High Sales + High Profit,Stars
+RA-19285,Medium High Sales + Medium High Profit,Other
+RA-19885,High Sales + High Profit,Stars
+RA-19915,High Sales + Medium High Profit,Other
+RA-19945,Medium Low Sales + Low Profit,Other
+RB-19330,Low Sales + Low Profit,Other
+RB-19360,High Sales + High Profit,Stars
+RB-19435,Medium High Sales + Medium High Profit,Other
+RB-19465,High Sales + High Profit,Stars
+RB-19570,Low Sales + Medium Low Profit,Other
+RB-19645,Low Sales + Medium Low Profit,Other
+RB-19705,Medium Low Sales + Medium High Profit,Other
+RB-19795,High Sales + Low Profit,"High Sales, Losing Money"
+RC-19825,Low Sales + Medium Low Profit,Other
+RC-19960,Low Sales + Low Profit,Other
+RD-19480,High Sales + Medium High Profit,Other
+RD-19585,Medium High Sales + High Profit,Other
+RD-19660,Medium High Sales + High Profit,Other
+RD-19720,Medium Low Sales + Medium Low Profit,Other
+RD-19810,Low Sales + Medium High Profit,Small but Profitable
+RD-19900,Medium High Sales + Medium High Profit,Other
+RD-19930,Low Sales + Low Profit,Other
+RE-19405,Low Sales + Low Profit,Other
+RE-19450,Low Sales + Medium Low Profit,Other
+RF-19345,Medium High Sales + High Profit,Other
+RF-19735,Medium High Sales + High Profit,Other
+RF-19840,Low Sales + Medium High Profit,Small but Profitable
+RH-19495,Medium High Sales + High Profit,Other
+RH-19510,High Sales + High Profit,Stars
+RH-19555,Low Sales + Low Profit,Other
+RH-19600,Medium Low Sales + Medium Low Profit,Other
+RK-19300,Medium Low Sales + Medium High Profit,Other
+RL-19615,High Sales + Medium High Profit,Other
+RM-19375,Medium Low Sales + Medium High Profit,Other
+RM-19675,High Sales + High Profit,Stars
+RM-19750,Low Sales + Low Profit,Other
+RO-19780,High Sales + Low Profit,"High Sales, Losing Money"
+RP-19270,Low Sales + Medium Low Profit,Other
+RP-19390,High Sales + Medium High Profit,Other
+RP-19855,Medium Low Sales + High Profit,Small but Profitable
+RR-19315,Low Sales + Low Profit,Other
+RR-19525,Medium High Sales + High Profit,Other
+RS-19420,Medium High Sales + High Profit,Other
+RS-19765,High Sales + High Profit,Stars
+RS-19870,Low Sales + Low Profit,Other
+RW-19540,High Sales + High Profit,Stars
+RW-19630,Medium High Sales + High Profit,Other
+RW-19690,Medium High Sales + High Profit,Other
+SA-20830,High Sales + High Profit,Stars
+SB-20170,Medium Low Sales + Medium Low Profit,Other
+SB-20185,High Sales + High Profit,Stars
+SB-20290,High Sales + Low Profit,"High Sales, Losing Money"
+SC-20020,Medium High Sales + Low Profit,"High Sales, Losing Money"
+SC-20050,High Sales + High Profit,Stars
+SC-20095,High Sales + High Profit,Stars
+SC-20230,High Sales + Medium High Profit,Other
+SC-20260,Medium High Sales + High Profit,Other
+SC-20305,High Sales + Medium High Profit,Other
+SC-20380,High Sales + Medium High Profit,Other
+SC-20440,Medium Low Sales + Medium High Profit,Other
+SC-20575,Low Sales + Medium Low Profit,Other
+SC-20680,Medium Low Sales + Medium High Profit,Other
+SC-20695,Medium High Sales + High Profit,Other
+SC-20725,High Sales + High Profit,Stars
+SC-20770,High Sales + Low Profit,"High Sales, Losing Money"
+SC-20800,Low Sales + Medium Low Profit,Other
+SC-20845,Low Sales + Low Profit,Other
+SD-20485,High Sales + High Profit,Stars
+SE-20110,High Sales + High Profit,Stars
+SF-20065,Low Sales + Medium High Profit,Small but Profitable
+SF-20200,Medium High Sales + Medium High Profit,Other
+SF-20965,Medium High Sales + Medium High Profit,Other
+SG-20080,Medium High Sales + High Profit,Other
+SG-20470,Medium Low Sales + Low Profit,Other
+SG-20605,Medium High Sales + Medium High Profit,Other
+SG-20890,Low Sales + Low Profit,Other
+SH-19975,Medium High Sales + Medium High Profit,Other
+SH-20395,Medium Low Sales + Low Profit,Other
+SH-20635,Medium Low Sales + Medium High Profit,Other
+SJ-20125,High Sales + Medium Low Profit,Other
+SJ-20215,Medium Low Sales + Low Profit,Other
+SJ-20500,Medium Low Sales + Medium Low Profit,Other
+SK-19990,Low Sales + Medium Low Profit,Other
+SL-20155,Medium High Sales + Medium High Profit,Other
+SM-20005,Low Sales + Low Profit,Other
+SM-20320,High Sales + Low Profit,"High Sales, Losing Money"
+SM-20905,Low Sales + Low Profit,Other
+SM-20950,High Sales + High Profit,Stars
+SN-20560,Medium Low Sales + Low Profit,Other
+SN-20710,Medium High Sales + Medium High Profit,Other
+SO-20335,Medium High Sales + Low Profit,"High Sales, Losing Money"
+SP-20545,Medium Low Sales + Low Profit,Other
+SP-20620,High Sales + Low Profit,"High Sales, Losing Money"
+SP-20650,Medium Low Sales + Medium High Profit,Other
+SP-20860,High Sales + High Profit,Stars
+SP-20920,High Sales + Low Profit,"High Sales, Losing Money"
+SR-20425,Medium High Sales + Low Profit,"High Sales, Losing Money"
+SR-20740,High Sales + High Profit,Stars
+SS-20140,Medium Low Sales + Medium High Profit,Other
+SS-20410,Medium High Sales + Low Profit,"High Sales, Losing Money"
+SS-20515,Low Sales + Medium Low Profit,Other
+SS-20590,Low Sales + Medium Low Profit,Other
+SS-20875,Low Sales + Low Profit,Other
+ST-20530,Low Sales + Medium Low Profit,Other
+SU-20665,Medium High Sales + High Profit,Other
+SV-20365,High Sales + High Profit,Stars
+SV-20785,High Sales + Medium High Profit,Other
+SV-20815,Medium Low Sales + Medium Low Profit,Other
+SV-20935,Medium Low Sales + Medium Low Profit,Other
+SW-20245,Low Sales + Low Profit,Other
+SW-20275,Medium Low Sales + Medium High Profit,Other
+SW-20350,Low Sales + Medium Low Profit,Other
+SW-20455,Medium High Sales + High Profit,Other
+SW-20755,Low Sales + Medium Low Profit,Other
+SZ-20035,Medium High Sales + Medium High Profit,Other
+TA-21385,High Sales + High Profit,Stars
+TB-21055,Medium Low Sales + Medium High Profit,Other
+TB-21175,Medium High Sales + High Profit,Other
+TB-21190,Low Sales + Medium Low Profit,Other
+TB-21250,Medium Low Sales + Medium High Profit,Other
+TB-21280,Medium Low Sales + Medium High Profit,Other
+TB-21355,Low Sales + Medium High Profit,Small but Profitable
+TB-21400,High Sales + High Profit,Stars
+TB-21520,High Sales + Low Profit,"High Sales, Losing Money"
+TB-21595,Medium Low Sales + Low Profit,Other
+TB-21625,Medium High Sales + Medium High Profit,Other
+TC-20980,High Sales + High Profit,Stars
+TC-21145,Low Sales + Medium High Profit,Small but Profitable
+TC-21295,High Sales + High Profit,Stars
+TC-21475,Medium Low Sales + Medium Low Profit,Other
+TC-21535,Low Sales + Medium Low Profit,Other
+TD-20995,Medium Low Sales + Medium Low Profit,Other
+TG-21310,Medium High Sales + High Profit,Other
+TG-21640,Medium Low Sales + Medium High Profit,Other
+TH-21100,Medium High Sales + Low Profit,"High Sales, Losing Money"
+TH-21115,Medium High Sales + Low Profit,"High Sales, Losing Money"
+TH-21235,Low Sales + Medium Low Profit,Other
+TH-21550,High Sales + Low Profit,"High Sales, Losing Money"
+TM-21010,Medium High Sales + High Profit,Other
+TM-21490,Low Sales + Medium High Profit,Small but Profitable
+TN-21040,Medium High Sales + Low Profit,"High Sales, Losing Money"
+TP-21130,High Sales + High Profit,Stars
+TP-21415,High Sales + Low Profit,"High Sales, Losing Money"
+TP-21565,Medium Low Sales + Medium Low Profit,Other
+TR-21325,Low Sales + Medium Low Profit,Other
+TS-21085,Low Sales + Low Profit,Other
+TS-21160,Medium Low Sales + Medium High Profit,Other
+TS-21205,High Sales + High Profit,Stars
+TS-21340,Low Sales + Low Profit,Other
+TS-21370,High Sales + High Profit,Stars
+TS-21430,Medium Low Sales + Medium Low Profit,Other
+TS-21505,Medium Low Sales + Low Profit,Other
+TS-21610,Medium High Sales + Low Profit,"High Sales, Losing Money"
+TS-21655,Medium High Sales + Medium Low Profit,Other
+TT-21070,High Sales + High Profit,Stars
+TT-21220,Medium Low Sales + Medium High Profit,Other
+TT-21265,Low Sales + Medium Low Profit,Other
+TT-21460,High Sales + High Profit,Stars
+TW-21025,High Sales + High Profit,Stars
+TZ-21580,Medium Low Sales + Medium Low Profit,Other
+VB-21745,Medium Low Sales + Medium High Profit,Other
+VD-21670,High Sales + High Profit,Stars
+VF-21715,Low Sales + Low Profit,Other
+VG-21790,Low Sales + Medium Low Profit,Other
+VG-21805,Low Sales + Low Profit,Other
+VM-21685,Medium High Sales + Medium High Profit,Other
+VM-21835,Low Sales + Medium Low Profit,Other
+VP-21730,Low Sales + Medium Low Profit,Other
+VP-21760,Medium High Sales + Low Profit,"High Sales, Losing Money"
+VS-21820,Low Sales + Low Profit,Other
+VT-21700,Medium Low Sales + Low Profit,Other
+VW-21775,High Sales + Low Profit,"High Sales, Losing Money"
+WB-21850,High Sales + High Profit,Stars
+XP-21865,Medium High Sales + High Profit,Other
+YC-21895,High Sales + High Profit,Stars
+YS-21880,High Sales + High Profit,Stars
+ZC-21910,High Sales + Low Profit,"High Sales, Losing Money"
+ZD-21925,Medium Low Sales + Medium High Profit,Other
