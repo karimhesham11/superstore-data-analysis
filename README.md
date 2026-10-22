@@ -4,7 +4,7 @@
 
 End-to-end analysis of 9,994 order lines (2014–2017) from the Superstore dataset. The business generates **$2.30M in sales but keeps only a 12.47% margin**. This project finds out where discounts, product mix and customer behavior are eating the profit, and what to do about it.
 
-![Overview](dashboard/01_overview.png)
+https://raw.githubusercontent.com/karimhesham11/superstore-data-analysis/refs/heads/main/Dashboard%20Screenshots%20as%20png/1.png
 
 ---
 
