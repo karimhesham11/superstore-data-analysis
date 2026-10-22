@@ -4,7 +4,9 @@
 
 End-to-end analysis of 9,994 order lines (2014–2017) from the Superstore dataset. The business generates **$2.30M in sales but keeps only a 12.47% margin**. This project finds out where discounts, product mix and customer behavior are eating the profit, and what to do about it.
 
-https://raw.githubusercontent.com/karimhesham11/superstore-data-analysis/refs/heads/main/Dashboard%20Screenshots%20as%20png/1.png
+![Superstore Sales & Profitability Overview Dashboard](Dashboard%20Screenshots%20as%20png/1.png)
+
+*The **Executive Overview Dashboard** provides a top-level snapshot of business performance: tracking core KPIs ($2.30M sales, 12.47% profit margin across 5,009 orders), multi-year trends (2014–2017), Q4 seasonality peaks, customer segment distribution, and immediate visibility into sub-category profit drains (notably Tables and Bookcases).*
 
 ---
 
@@ -28,7 +30,7 @@ https://raw.githubusercontent.com/karimhesham11/superstore-data-analysis/refs/he
 | 41–50% | -35.71% | 1% | 15% |
 | >50% | **-119.20%** | 9% | 49% |
 
-- Order lines discounted **30% or more** are **[X]%** of all lines but account for **[Y]%** of total losses, with a combined margin of **[Z]%**.
+- Order lines discounted **30% or more** are **11.67%** of all lines but account for **81.81%** of total losses, with a combined margin of **-48.2%**.
 - The effect differs by category: at a 30% discount **Furniture is already loss-making (-10.75%)**, while **Technology stays profitable (+8.68%)** until discounts go beyond 30%.
 - Discount alone does not explain everything: the row-level correlation between discount and profit is weak (≈ -0.22), so the impact depends on the product and category.
 
@@ -47,7 +49,7 @@ https://raw.githubusercontent.com/karimhesham11/superstore-data-analysis/refs/he
 - 793 customers, **155** of them unprofitable overall.
 - **Stars (high sales + high profit):** 133 customers, ≈ $890K sales, ≈ $211K profit, **23.75%** margin.
 - **High sales + low profit:** 27 customers, ≈ $181K sales but **-$35.4K profit** (-19.58% margin).
-- Profit is spread across a broad customer base: the top 20 customers contribute **[A]%** of profit and the top 50 **[B]%**.
+- Profit is spread across a broad customer base: the top 20 customers contribute **26.02%** of profit and the top 50 **44.44%**.
 
 ### 5. Growth and seasonality
 - Sales grew from $484K (2014) to $733K (2017), with a dip in 2015 ($471K). Profit grew from $49.5K to $93.4K.
@@ -72,9 +74,14 @@ The Power BI report has four pages, connected with a sidebar navigator and share
 | **Products** | Where are the losses concentrated? Loss share by sub-category, top loss-making products, action priority |
 | **Customers** | Who drives profit and who loses money? Customer value segments, top and bottom customers |
 
-![Discounts](Dashboard Screenshots as png/2.png)
-![Products](dashboard/03_products.png)
-![Customers](dashboard/04_customers.png)
+### Discounts
+![Discounts Dashboard](Dashboard%20Screenshots%20as%20png/2.png)
+
+### Products
+![Products Dashboard](Dashboard%20Screenshots%20as%20png/3.png)
+
+### Customers
+![Customers Dashboard](Dashboard%20Screenshots%20as%20png/4.png)
 
 ## Methods
 
@@ -117,4 +124,4 @@ The Power BI report has four pages, connected with a sidebar navigator and share
 ## Author
 
 **Karim Hesham** · Junior Data Analyst
-[LinkedIn](https://linkedin.com/in/karim-hesham-847963300) · [GitHub](https://github.com/[username])
+[LinkedIn](https://linkedin.com/in/karim-hesham-847963300) · [GitHub](https://github.com/karimhesham11)
