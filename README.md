@@ -72,7 +72,7 @@ The Power BI report has four pages, connected with a sidebar navigator and share
 | **Products** | Where are the losses concentrated? Loss share by sub-category, top loss-making products, action priority |
 | **Customers** | Who drives profit and who loses money? Customer value segments, top and bottom customers |
 
-![Discounts](dashboard/02_discounts.png)
+![Discounts](Dashboard Screenshots as png/2.png)
 ![Products](dashboard/03_products.png)
 ![Customers](dashboard/04_customers.png)
 
